@@ -31,4 +31,4 @@ async function comprimeImage() { // é usado a função assíncrona para permiti
 }
 exports.images = comprimeImage;
 
-exports.build = gulp.series(compilaSass, comprimeJS, comprimeImage);
+exports.default = gulp.series(compilaSass, comprimeJS, comprimeImage);
