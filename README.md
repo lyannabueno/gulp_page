@@ -1,48 +1,48 @@
 # Gulp Page 🥤
 
-Este projeto demonstra a utilização do Gulp para automatizar tarefas comuns no desenvolvimento web, como compilação de SASS, minificação de JavaScript e otimização de imagens. O site apresenta informações sobre o Gulp, parceiros tecnológicos e uma seção de contato.
+## Features 🌟
+- **Task Automation:** Automates and simplifies tasks like SASS compilation, JavaScript minification, and image optimization, improving development efficiency.
+- **Responsive Interface:** Thanks to Bootstrap, the site adapts perfectly to different screen sizes, ensuring an excellent user experience on both mobile devices and desktops.
+- **Contact Form:** Includes a contact form with input validation, allowing visitors to send messages directly through the site.
 
-## Funcionalidades 🌟
+## Technologies Used 📚
 
-- **Automação de Tarefas:** Automatiza e simplifica tarefas como compilação de SASS, minificação de JavaScript e otimização de imagens, melhorando a eficiência do desenvolvimento
-- **Interface Responsiva:** Graças ao Bootstrap, o site se adapta perfeitamente a diferentes tamanhos de tela, garantindo uma ótima experiência de usuário em dispositivos móveis e desktops.
-- **Formulário de Contato:** Inclui um formulário de contato com validação de entrada, permitindo aos visitantes enviar mensagens diretamente através do site.
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+</p>
 
-## Tecnologias Utilizadas 📚
+#### What I learned in this project:
+- Automating tasks such as file minification, preprocessor compilation, and image optimization.
 
-- **HTML:** Estrutura da página web.
-- **SASS:** Pré-processador CSS que permite uma escrita de estilos mais dinâmica e organizada
-- **Gulp:** Automatiza o workflow de desenvolvimento, incluindo tarefas como compilação de SASS, minificação de arquivos e otimização de imagens.
-- **JavaScript:** Eventos como cliques em botões e animações de scroll.
-- **Bootstrap 5.3.2:** Estiliza e estrutura o layout do site, incluindo o sistema de grid para layouts responsivos, componentes de interface como botões e formulários, e utilitários de CSS para margens, padding e alinhamento
-- **jQuery 3.7.1:** Criação do menu hamburguer e a animação de scroll para a seção de contato.
-- **jQuery Mask Plugin 1.14.16** Máscara de entrada no campo de telefone do formulário;
-- **jQuery Migrate 1.4.1:** Fornece funcionalidades que foram removidas ou depreciadas em versões mais recentes do jQuery, permitindo que o código que depende dessas funcionalidades antigas continue funcionando
-- **jQuery Validate 1.19.5:** Garante que os dados inseridos no campo de formulário sejam válidos e completos, com regras específicas para cada campo
-- **Messages PT-BR 1.19.5:** Fornece traduções em português para as mensagens de validação, melhorando a experiência do usuário brasileiro.
+## How to Navigate 🦅
 
-## Como Navegar 🍽️
+To access the site and book a date and time, you don’t need to install anything. Simply clone or download the project to your computer and open the `index.html` file in a web browser of your choice.
 
-Para entrar no site e reservar um dia e horário, você não precisa instalar nada. Simplesmente clone ou baixe o projeto para o seu computador e abra o arquivo `index.html` em um navegador de sua escolha.
+### Steps to Run
 
-### Passos para Executar
-
-1. **Clone ou baixe o repositório:**
+1. **Clone or download the repository::**
 
 ```bash
 https://github.com/lyannabueno/gulp_page.git
 ```
 
-2. **Abra o arquivo `index.html`:**
+2. **Open the `index.html` file:**
 
-Localize o arquivo `index.html` no diretório 'build' do projeto e abra-o em um navegador web.
+Locate the `index.html` file in the ‘build’ directory of the project and open it in a web browser.
 
-## Contribuições 🫂
+## Contributions  🫂
 
-Contribuições para melhorar a calculadora de médias são bem-vindas. Se você tem uma sugestão para melhorar este projeto, sinta-se à vontade para criar um fork do repositório, fazer suas alterações e enviar um pull request.
+Contributions to improve the grade calculator are welcome. If you have a suggestion to enhance this project, feel free to fork the repository, make your changes, and submit a pull request.
 
-## Contato 📩
+## Contact 📩
 
 Ana Bueno - anabuenogomes@hotmail.com
+
+Project link: https://gulp-page.vercel.app/
 
 ---
