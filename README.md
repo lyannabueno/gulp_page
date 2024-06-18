@@ -1,5 +1,7 @@
 # Gulp Page 🥤
 
+![image](https://github.com/lyannabueno/gulp_page/assets/130186281/9a27cf1f-c40e-4d88-a32c-a80162fa862d)
+
 ## Features 🌟
 - **Task Automation:** Automates and simplifies tasks like SASS compilation, JavaScript minification, and image optimization, improving development efficiency.
 - **Responsive Interface:** Thanks to Bootstrap, the site adapts perfectly to different screen sizes, ensuring an excellent user experience on both mobile devices and desktops.
@@ -43,6 +45,6 @@ Contributions to improve the grade calculator are welcome. If you have a suggest
 
 Ana Bueno - anabuenogomes@hotmail.com
 
-Project link: https://gulp-page.vercel.app/
+Project link: https://gulp-page-lyannabuenos-projects.vercel.app/
 
 ---
